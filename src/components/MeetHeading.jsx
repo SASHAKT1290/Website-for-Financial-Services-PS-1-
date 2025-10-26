@@ -1,0 +1,22 @@
+import React from 'react'
+
+const MeetHeading = () => {
+  return (
+    <div>
+      <div>
+            <div className='bg-beige'>
+                <div className='flex flex-col items-center'>
+                    <div>
+                        <p className='mt-3 text-5xl pt-10 pb-3 font-medium font-semibold text-black'>Meet Our Team</p>
+                    </div>
+                    <div className='border-2 border-amber-400 shadow rounded-2xl w-45 m-5'>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  )
+}
+
+export default MeetHeading

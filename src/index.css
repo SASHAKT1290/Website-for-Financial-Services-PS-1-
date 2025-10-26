@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "tailwindcss-animated";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@import "tw-animate-css";
+@theme{
+    --color-brown: #954C2E;
+  --color-blue: #131D4F;
+  --color-lightblue: #254D70;
+  --color-beige: #EFE4D2;
+
+  --color-gold: #C8A96A;
+  --color-champagne: #F5E8C7;
+  --color-warmgray: #B9B2A8;
+
+  --color-mintgreen: #B0D9B1;
+  --color-richgreen: #2C5F2D;
+
+  --color-mutedorange: #D97D54;
+  --color-terracotta: #E2725B;
+
+  --color-offwhite: #F8F6F1;
+  --color-sand: #E9DBC3;
+}
